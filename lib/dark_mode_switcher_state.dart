@@ -1,0 +1,4 @@
+enum DarkModeSwitcherState {
+  sun,
+  moon
+}
