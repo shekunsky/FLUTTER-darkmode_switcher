@@ -2,7 +2,7 @@
 
 **darkmode_switcher** widget for Flutter project.
 
-![](Cdarkmode_switcher.gif)
+![](darkmode_switcher.gif)
 
 ## Getting Started
 
